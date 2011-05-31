@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Opencellidlocator
 
 Mobile app to load available celltowerid's from opencellid
+=======
+Mobile app to load available celltowerid's from opencellid. Not tested on any other phone except from an E66. Soon test on others.
+>>>>>>> d76c13ae77867917263b22604f06111a5d113463
