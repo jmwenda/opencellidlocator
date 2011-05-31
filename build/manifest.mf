@@ -1,0 +1,7 @@
+MIDlet-2: CellIDMIDlet, , opencellidlocator.CellIDMIDlet
+MIDlet-1: HelloMIDlet, ,opencellidlocator.OpenCellMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Name: OpenCellIdLocator
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
